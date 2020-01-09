@@ -7,12 +7,14 @@ Trouver les sujets abordée par les marocains dans les medias sociaux (Facebook 
 # Etapes :
 
 ## 1.Scraping des données :
-J'ai developpées des robots d'explorations en utilisant **Scrapy** pour :
+J'ai creer des robots d'explorations en utilisant **Scrapy** pour :
 -recuperer les publications de quelques pages facebooks populaires au Maroc comme *Discovery Morocco*
 -recuperer les tweets du hastags *#Maroc* sur twitter
 -recuprer les resumés des articles de 3 journaux marocains populaires comme (bladi,hespress(version fr) et h24infos)
 
 ## 2.Netoyage et aggregation des données :
-Aprés avoir scraper les données je les aggreger en fichiers csv,ou chaque document est representé par son text et sa date de publication,puis j'ai utilisée les techniques traditionnels de Text Mining pour nettoyer le  texte de chaque documents.
+Aprés avoir scraper les données je les aggreger en fichiers csv,ou chaque document est representé par son text et sa date de publication,puis j'ai utilisée les techniques traditionnels de Text Mining pour nettoyer le texte de chaque documents.
 
 ## 3.Topic Modeling avec l'algorithme MNF
+
+
