@@ -32,4 +32,3 @@ Aprés avoir scraper les données je les aggreger en fichiers csv,ou chaque docu
 
 
 
-## *Developper par : SAID ABDEREMANE*
