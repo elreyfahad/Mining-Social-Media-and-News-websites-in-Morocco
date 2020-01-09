@@ -18,3 +18,18 @@ Aprés avoir scraper les données je les aggreger en fichiers csv,ou chaque docu
 ## 3.Topic Modeling avec l'algorithme MNF
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## *Developper par : SAID ABDEREMANE*
