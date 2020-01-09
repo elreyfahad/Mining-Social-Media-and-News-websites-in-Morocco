@@ -8,8 +8,9 @@ Trouver les sujets abordée par les marocains dans les medias sociaux (Facebook 
 
 ## 1.Scraping des données :
 J'ai creer des robots d'explorations en utilisant **Scrapy** pour :
-### -*Recuperer les publications de quelques pages facebooks populaires au Maroc comme *Discovery Morocco**
-### -*Recuperer les tweets du hastags *#Maroc* sur twitter*
+### -*Recuperer les publications de quelques pages facebooks populaires au Maroc comme *Discovery Morocco** :https://github.com/elreyfahad/morocco-media-crawler
+
+### -*Recuperer les tweets du hastags *#Maroc* sur twitter* : https://github.com/elreyfahad/twitterscraper
 ### -*Recuprer les resumés des articles de 3 journaux marocains populaires comme (bladi,hespress(version fr) et h24infos)*
 
 ## 2.Netoyage et aggregation des données :
