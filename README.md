@@ -1,5 +1,5 @@
 # Projet Mining Social Media and News websites in Morocco :
-Projet de fin de semestre du module de **Web Mining** ,dans le master double diplome **Exploration Informatique des Données et Decisionnels** de l'Université Paris 13 et  **Web Intelligence et Science des Données** de l'Université SIDI MOHAMED BEN ABDALLAH  de Fés.
+Projet de fin de semestre du module **Web Mining** ,dans le master double diplome **Exploration Informatique des Données et Decisionnels** de l'Université Paris 13 et  **Web Intelligence et Science des Données** de l'Université SIDI MOHAMED BEN ABDALLAH  de Fés.
 
 # Objectif du projet :
 Trouver les sujets abordée par les marocains dans les medias sociaux (Facebook et Twitter) et les sites d'actualités marocaines entre **Janvier 2018** et **Janvier 2020**
